@@ -1,1 +1,9 @@
-INFERNO CANTO 1	 		1.1. - Nel mezzo del cammin di nostra vita		mi ritrovai per una selva oscura,			ché la diritta via era smarrita.			 1.4 - Ahi quanto a dir qual era è cosa dura	esta selva selvaggia e aspra e forte	che nel pensier rinova la paura!1.7 - Tant' è amara che poco è più morte;		ma per trattar del ben ch'i' vi trovai,	dirò de l'altre cose ch'i' v'ho scorte.1.10 - Io non so ben ridir com' i' v'intrai,	tant' era pien di sonno a quel punto	che la verace via abbandonai. 			 1.13 - Ma poi ch'i' fui al piè d'un colle giunto,	là dove terminava quella valle			che m'avea di paura il cor compunto1.16 - guardai in alto e vidi le sue spalle			vestite già de' raggi del pianeta			che mena dritto altrui per ogne calle.1.19 - Allor fu la paura un poco queta,	che nel lago del cor m'era durata			la notte ch'i' passai con tanta pieta.
+INFERNO CANTO 1	 		1.1. - Nel mezzo del cammin di nostra vita		mi ritrovai per una selva oscura,			ché la diritta via era smarrita.			 1.4 - Ahi quanto a dir qual era è cosa dura	esta selva selvaggia e aspra e forte	che nel pensier rinova la paura!1.7 - Tant' è amara che poco è più morte;		ma per trattar del ben ch'i' vi trovai,	dirò de l'altre cose ch'i' v'ho scorte.1.10 - Io non so ben ridir com' i' v'intrai,	tant' era pien di sonno a quel punto	che la verace via abbandonai. 			 1.13 - Ma poi ch'i' fui al piè d'un colle giunto,	là dove terminava quella valle			che m'avea di paura il cor compunto
+
+1.16 - guardai in alto e vidi le sue spalle			
+vestite già de' raggi del pianeta			
+che mena dritto altrui per ogne calle.
+
+1.19 - Allor fu la paura un poco queta,	
+che nel lago del cor m'era durata			
+la notte ch'i' passai con tanta pieta.2.1 - prova prova provanon si rompono le uova2.2 - vediamo come va il rebaseche se non unisce i commit spiase
